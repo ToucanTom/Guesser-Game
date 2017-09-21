@@ -1,0 +1,34 @@
+Mono path[0] = 'C:/Users/Andrew Ripley/Desktop/Guesser-Game/NumberGuesser_Data/Managed'
+Mono config path = 'C:/Users/Andrew Ripley/Desktop/Guesser-Game/NumberGuesser_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Andrew Ripley/Desktop/Guesser-Game/NumberGuesser_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55171
+Multi-casting "[IP] 161.28.249.247 [Port] 55171 [Flags] 2 [Guid] 423142135 [EditorId] 539696757 [Version] 1048832 [Id] WindowsPlayer(Lenovo-PC) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55171]
+PlayerConnection already initialized - listening to [0.0.0.0:55171]
+Player data archive not found at `C:/Users/Andrew Ripley/Desktop/Guesser-Game/NumberGuesser_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Andrew Ripley\Desktop\Guesser-Game\NumberGuesser_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  1.629 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.167899 ms
